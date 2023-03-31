@@ -1,0 +1,14 @@
+const pizzaPlace = "Funion";
+const numberOfToppings = 7;
+console.log(typeof pizzaPlace);
+console.log(typeof numberOfToppings);
+console.log(`"${pizzaPlace} is a 21+ pizza joint that offers ${numberOfToppings} toppings."`)
+if (numberOfToppings < 10) {
+  console.log("Quality, not quantity.")
+}
+else if (numberOfToppings > 10) {
+  console.log("A whole lot of pizza.");
+}
+for (let i = 2; i <= numberOfToppings; i = i + 2) {
+  console.log(i);
+}
