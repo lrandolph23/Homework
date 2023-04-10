@@ -7,10 +7,10 @@ for (let topping of pizzaToppings) {
     }
 console.log(greet);
 }
-//wut 3
-//let pizzaSize = ["large", "small"];
-//let pizzaCrust = ["thin", "thick"];
+//3
 function getPizzaOrder(size, crust, ...toppings) {
+  //10
+  //if (getPizzaOrder
   console.log(`One ${size} ${crust} crust pizza with ${toppings} coming right up!`)
   let ordered = [size, crust, toppings];
   return ordered;
@@ -29,6 +29,12 @@ function servePizza(pizza){
   console.log(`The ${pizza.size}, ${pizza.crust} crust, ${pizza.toppings} is on deck!`);
   return pizza;
 }
+//Bonus XD?
+//function listToppings(){
+  //console.log(pizzaToppings.pop);
+  //let and = pizzaToppings[pizzaToppings.length - 2]
+  //somehow I want to .push ", and "?
+//}
 
 greetCustomer();
 servePizza(preparePizza(getPizzaOrder("12 inch", "stuffed", ["jollies", "shallots"])));
