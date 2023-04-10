@@ -1,28 +1,71 @@
 # Lacy Randolph Capstone Project 2023
-- Definition Statement
+- ### Definition Statement
   - I want to build an application that can track meteorites and space weather for the interest of alien travelers and cosmonauts. Eventually I would like to add accounts for the “Experiences” map.
-- Definition of Audience
+- ### Definition of Audience
   - People who are curious about the conditions outside earth’s atmosphere.
-- Outline of content
-What do I want on each page? (text / pics / images / navigation)
-  - Lots of green, aliens, and boxy font. Easy navigation with just a couple of search bars.
-- What do I want the functionality of each page to be?
-  - Search bars for zip code locations but mostly navigation at top to go to each page and a big universal home button
-- What is the purpose of my application?
-  - An application to check the weather and share your alien experiences at the same time.
-- What business problem or real world problem am I going to be solving?:
+- ### Intro and Elevator Speech:
+  - I want to build this application so people who experience the unexplained have a safe place to share their experiences. For the cosomonauts I want to create a weather website where they can track flying conditions for star travel. The weather is also good to see patterns in experiences and watch for correlations.
+- ### Outline of content
+  - What do I want on each page? (text / pics / images / navigation)
+    - **Home**: Welcome message, alien home button, pages menu
+    - **Weather**: Space travel message, space weather API, meteorite API, search
+    - **About**: Fun stuff about me, mission statement, and link to linkedin
+    - **Contact**: Links to website social media and a picture of a group of aliens
+    - **Map**: Experiences heat map, alien pictures, search
+  - What do I want the functionality of each page to be?
+    - **Home**: pages navigation, some kind of messages based on the weather conditions?
+    - **Weather**: search for location on weather map
+    - **About**: a little bit about me(or not me)
+    - **Contact**: a way to get to the website's social media accounts and mission statement
+    - **Map**: search for zipcode of experiences and share experiences
+- ### What is the purpose of my application?
+  - An application to check the weather and share your alien experiences
+- ### What business problem or real world problem am I going to be solving?:
   - Checking for safe conditions for entering or leaving Earth’s atmosphere.
-- Color Palette:
+- ### Color Palette:
   - greens and black
-- Images:
+- ### Images:
   - Real alien crashes and cheesy animated alien icons
-- Fonts:
+- ### Fonts:
   - Courier new
-- Logos:
+- ### Logos:
   - Aliens and space people
-- Navigation:
+- ### Navigation:
   - Search bar for space weather and experiences maps. Big universal logo home button.
-- Create and provide link to story map created in Mural:
-  - https://app.mural.co/invitation/mural/woo1918/1679953004812?sender=u408f9dbb206ee8cb3b723221&key=bcafab2e-5efd-4609-9054-9c21abd4a059
+- ### Create and provide link to story map created in Mural:
+  - [Mural Story Map](https://app.mural.co/invitation/mural/woo1918/1679953004812?sender=u408f9dbb206ee8cb3b723221&key=bcafab2e-5efd-4609-9054-9c21abd4a059)
+- ### Research
+  - [Arcgis](https://www.arcgis.com/apps/View/index.html?appid=6cd609921ebc44ff914a4e8059813b16)
+    - I like the simplicity of the heat map. It’s very straightforward.
+    - I don’t like how it’s pre existing experiences and not new or personal.
+    - I want my application to be just as user friendly but to be more personal for the user.
+  - [YouMap](https://youmap.com/app/2-ufo-reporting/posts)
+    - I like how users are able to submit experience locations and how user friendly
+    - I don’t like that you can’t read about the experiences, you can just see where it happened.
+    - I want my website to let people tell their story and to show them space weather.
+  - [History](https://www.history.com/ufo-sightings-location-map)
+    - I like how this is government recognized abductions.
+    - I don’t like how users can only view the locations but not read the stories.
+    - I want my application to be very informative to the user and personal.
+- ### Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages):
+  - [Home](https://drive.google.com/file/d/1kILVCtABD690XMGHhNKfctKyeJlQHk_G/view?usp=sharing)
+  - [Weather](https://drive.google.com/file/d/1aayDCkNstV1T1WzPBsR5iZrECn2FbwxY/view?usp=sharing)
+  - [About](https://drive.google.com/file/d/1wOe9hzxju95Ln0NQYk5RXRdwqCcbON8C/view?usp=sharing)
+  - [Contact](https://drive.google.com/file/d/1zcm0rjwd7pDNyuNP5-71YKoHDIReF7HT/view?usp=sharing)
+  - [Experiences](https://drive.google.com/file/d/1-mHFcfg72ejpSjM5KVo32M1Ou7oMcFBg/view?usp=sharing)
+- ### Create and provide link to User Flow:
+  - [Flow](https://drive.google.com/file/d/1rtPy84-nyKu8vT5h5aXCZGyNCHzn4Dm9/view?usp=sharing)
+- ### Create and provide link to SWOT Analysis:
+  - [SWOT](https://docs.google.com/document/d/11wVyhIlYHkv_ddS8LLWOWLH5pYFqRRRAiqsWw_BcRJg/edit?usp=sharing)
+- ### API and Extras:
+  - [NASA](https://api.nasa.gov/)
+  - [Font](https://fonts.google.com/specimen/Courier+Prime?query=courier
+)
+  - Color:
+    - Green: #47AE40 rgb(71,174, 64)
+  - [Aliens](https://www.shutterstock.com/search/alien-crash?image_type=photo)
+  - Home button logo:
+  <img src="https://www.kindpng.com/picc/m/85-850924_alien-spaceship-ufo-future-fantasy-futuristic-alien-in.png" alt="Alien Spaceship Ufo Future Fantasy Futuristic - Alien In Ufo Clipart, HD Png Download@kindpng.com">
+- Link to Capstone project in docs [Googledocs](https://docs.google.com/document/d/1A9bnNGVf0yKDf5FsTSzwvHdTweV9jFQVaSSwRSpnMhM/edit?usp=sharing)
 
 
