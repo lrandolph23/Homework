@@ -1,16 +1,14 @@
 h1 {
-  color: CCFF33;
+  color: #CCFF33;
 }
 body {
-  background-color: 004B23;
-}
-body.list {
+  background-color: #004B23;
 }
 p {
-  color: 9EF01A;
+  color: #9EF01A;
 }
 a {
-  color: 38b000;
+  color: #38b000;
 }
 #space, #mountains {
   border: 5px solid green;
