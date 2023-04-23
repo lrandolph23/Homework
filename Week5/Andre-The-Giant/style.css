@@ -1,0 +1,55 @@
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  max-height: 80%;
+  max-width: 80%;
+  padding: 1%;
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+/* #introPic {
+  float: left;
+} */
+
+ul {
+  display: inline-block;
+}
+
+#bio > li {
+  padding: 2px;
+  /* justify-content: center; */
+}
+
+#pro {
+  width: auto;
+}
+
+@media (max-width: 700px){
+  div {
+    border: 10px dotted red;
+    margin: 5px;
+  }
+  html {
+    background-color: black;
+    color: white;
+  }
+  a {
+    color: orange;
+  }
+}
+
